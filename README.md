@@ -1,7 +1,7 @@
 FRDM K25Z SPI driver:
 ----------------------------------
 
-Initializes the SPI0 for:
+Initializes the SPI0 for:\\
 	- Configure PTA15,PTA16,PTA17 as the SPI module pins (Second alternative)
 	- Enables the SPI module by enabling clock gating to SPI and enables the SPI system 
 	- MSB first 
