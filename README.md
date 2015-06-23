@@ -1,10 +1,5 @@
- Author : MohammadHossein Askari-Hemmat 
- Create Date:    1/20/2014 
- Design Name: 	 SPI low level driver
- Target Devices: KL25Z128VLK4
- Platform: FRDM-KL25Z (Freescale Freedom Development Platform for Kinetis)
- Compiler Versions: Keil 5.1
- Version: 1.0
+FRDM K25Z SPI driver:
+----------------------------------
 
 Initializes the SPI0 for:
 	- Configure PTA15,PTA16,PTA17 as the SPI module pins (Second alternative)
