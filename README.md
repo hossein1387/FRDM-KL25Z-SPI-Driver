@@ -26,7 +26,7 @@ driver, the Busclock is 16MHZ.
 	- Desired baudrate = 1MHZ, BusClock= 16MHZ  ----> BaudRateDivisor= 16 
 	- SPPR=1
 	- SPR=2
-	- 
+
 How to use this driver with NRF24L01+:
 ---------------------------------------
 To use this driver along with NRF24L01 module, make sure that the SPCK is not more
