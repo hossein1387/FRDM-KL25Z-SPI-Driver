@@ -32,4 +32,4 @@ How to use this driver with NRF24L01+:
 To use this driver along with NRF24L01 module, make sure that the SPCK is not more
 than 10MHZ. Refer to the NRF24L01 datasheet for more information.
 This driver will use PTA14 as the CSN(Chip Select Not). The automatic triggering
-is disabled, so the code developer should take care of handling this pin.
+is disabled, so the developer should take care of handling this pin.
